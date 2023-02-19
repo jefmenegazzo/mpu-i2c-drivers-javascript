@@ -1,0 +1,19 @@
+{
+  "name": "mpu-i2c-drivers-javascript",
+  "version": "1.0.0",
+  "description": "\"# mpu-i2c-drivers-javascript\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript.git"
+  },
+  "author": "Jeferson Menegazzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript/issues"
+  },
+  "homepage": "https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript#readme"
+}
